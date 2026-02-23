@@ -1,0 +1,12 @@
+C:\Users\win512\Documents\Ethan 24559\Practica 3 24559\Practica 3 24559\bin\Debug\Practica 3 24559.exe.config
+C:\Users\win512\Documents\Ethan 24559\Practica 3 24559\Practica 3 24559\bin\Debug\Practica 3 24559.exe
+C:\Users\win512\Documents\Ethan 24559\Practica 3 24559\Practica 3 24559\bin\Debug\Practica 3 24559.pdb
+C:\Users\win512\Documents\Ethan 24559\Practica 3 24559\Practica 3 24559\bin\Debug\Practica 3 24559.xml
+C:\Users\win512\Documents\Ethan 24559\Practica 3 24559\Practica 3 24559\obj\Debug\Practica 3 24559.vbprojAssemblyReference.cache
+C:\Users\win512\Documents\Ethan 24559\Practica 3 24559\Practica 3 24559\obj\Debug\Practica_3_24559.Form1.resources
+C:\Users\win512\Documents\Ethan 24559\Practica 3 24559\Practica 3 24559\obj\Debug\Practica_3_24559.Resources.resources
+C:\Users\win512\Documents\Ethan 24559\Practica 3 24559\Practica 3 24559\obj\Debug\Practica 3 24559.vbproj.GenerateResource.cache
+C:\Users\win512\Documents\Ethan 24559\Practica 3 24559\Practica 3 24559\obj\Debug\Practica 3 24559.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Documents\Ethan 24559\Practica 3 24559\Practica 3 24559\obj\Debug\Practica 3 24559.exe
+C:\Users\win512\Documents\Ethan 24559\Practica 3 24559\Practica 3 24559\obj\Debug\Practica 3 24559.xml
+C:\Users\win512\Documents\Ethan 24559\Practica 3 24559\Practica 3 24559\obj\Debug\Practica 3 24559.pdb
